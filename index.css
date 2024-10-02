@@ -1,0 +1,73 @@
+
+.cont{
+height: 80%;
+width: 80vw;
+margin-left: 110px;
+
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+th {
+    cursor: pointer;
+    padding-left: 10px;
+}
+th p{
+    color: rgb(108, 110, 110);
+    padding-left: 10px;
+}
+.toolbar button {
+    margin-bottom: 15px;
+    float: right;
+    margin-top: 25px;
+}
+.toolbar button {
+    margin-right: 10px;
+}
+span {
+    content: "\271A";
+    background-color: rgb(87, 87, 203);
+    color: aliceblue;
+  }
+.head{
+    display: flex;
+    margin-bottom: -68px;
+}
+.selected { 
+    background-color: #bec6f9;
+}
+.toolbar button{
+    margin-right: 5px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+ }
+th,td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.btn {
+    background-color: white;
+    border: none; 
+    color: rgb(216, 104, 104);
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
